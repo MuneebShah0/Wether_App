@@ -1,3 +1,3 @@
 # Wether-APP
-![image](https://github.com/MuneebShah0/Wether_App/raw/main/wetherPic-min.png)
+![image](https://github.com/MuneebShah0/Wether_App/blob/main/wetherPic-min-1.png)
 
